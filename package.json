@@ -1,0 +1,23 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "#### ❓ What is \"Software Testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangth0655/react-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangth0655/react-TDD/issues"
+  },
+  "homepage": "https://github.com/jangth0655/react-TDD#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

@@ -4,7 +4,7 @@
   "description": "#### ❓ What is \"Software Testing\"",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jangth0655/react-TDD#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.4"
   }
 }
